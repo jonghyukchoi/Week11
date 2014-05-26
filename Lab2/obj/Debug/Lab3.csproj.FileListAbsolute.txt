@@ -1,0 +1,8 @@
+C:\Users\최종혁\Documents\Visual Studio 2013\Projects\Week11\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\최종혁\Documents\Visual Studio 2013\Projects\Week11\Lab2\bin\Debug\Lab2.exe
+C:\Users\최종혁\Documents\Visual Studio 2013\Projects\Week11\Lab2\bin\Debug\Lab2.pdb
+C:\Users\최종혁\Documents\Visual Studio 2013\Projects\Week11\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\최종혁\Documents\Visual Studio 2013\Projects\Week11\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\최종혁\Documents\Visual Studio 2013\Projects\Week11\Lab2\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\최종혁\Documents\Visual Studio 2013\Projects\Week11\Lab2\obj\Debug\Lab2.exe
+C:\Users\최종혁\Documents\Visual Studio 2013\Projects\Week11\Lab2\obj\Debug\Lab2.pdb

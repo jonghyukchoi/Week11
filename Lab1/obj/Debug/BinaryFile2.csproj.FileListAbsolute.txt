@@ -1,0 +1,6 @@
+c:\Users\최종혁\documents\visual studio 2013\Projects\Week11\BinaryFile2\bin\Debug\BinaryFile2.exe.config
+c:\Users\최종혁\documents\visual studio 2013\Projects\Week11\BinaryFile2\obj\Debug\BinaryFile2.csprojResolveAssemblyReference.cache
+c:\Users\최종혁\documents\visual studio 2013\Projects\Week11\BinaryFile2\bin\Debug\BinaryFile2.exe
+c:\Users\최종혁\documents\visual studio 2013\Projects\Week11\BinaryFile2\bin\Debug\BinaryFile2.pdb
+c:\Users\최종혁\documents\visual studio 2013\Projects\Week11\BinaryFile2\obj\Debug\BinaryFile2.exe
+c:\Users\최종혁\documents\visual studio 2013\Projects\Week11\BinaryFile2\obj\Debug\BinaryFile2.pdb
